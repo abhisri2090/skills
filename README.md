@@ -2,7 +2,6 @@
 
 A collection of [agent skills](https://code.claude.com/docs/en/skills) for Claude Code. Each skill is a folder containing a `SKILL.md` with frontmatter (name, description) and instructions that Claude loads on demand when the task matches.
 
-
 [![skills.sh](https://skills.sh/b/michaelshimeles/skills)](https://skills.sh/michaelshimeles/skills)
 [![Install with AIPM](https://www.aipm-registry.com/install-with-aipm.svg)](https://www.aipm-registry.com/skills/michaelshimeles/software-factory/1.0.0?utm_source=github&utm_medium=readme&utm_campaign=package_badge)
 
